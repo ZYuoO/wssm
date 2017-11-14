@@ -5,7 +5,10 @@
 </head>
 <body>
 <div id="bg" style="width: 100px;height: 100px">
-<img src="<%=path%>/images/background.jpg">
+<%--<img src="<%=path%>/images/background.jpg">--%>
 </div>
 </body>
+<script>
+    window.location.href='http://localhost:8080/test/goView.do';
+</script>
 </html>
