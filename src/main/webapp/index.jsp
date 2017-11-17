@@ -9,6 +9,6 @@
 </div>
 </body>
 <script>
-    window.location.href='http://localhost:8080/test/goView.do';
+    window.location.href=path+'toJsp/goView.do';
 </script>
 </html>
